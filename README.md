@@ -10,6 +10,7 @@ My experience as a web developer shows that there are people out there who try t
 ## Chapter Three - If You Are a Family Member
 ## Chapter Four  - If You Are an Aquintance
 ## Chapter Five  - If You Are a Designer
+## Chapter Six   - If You Are a Sexist
 
 
 ## Chapter One   - If You Are an Employer
@@ -37,16 +38,16 @@ Requirements
 * SVN, Git
 
 Why this list might do a good job insulting web developers?
-The most important factor to keep in mind is that the position shouldn't actually need many of these skills. For example you should require all this for a position that in fact involves only editing some pages on your current Wordpress website. This way you have insulted both people who you will hire and the ones that you don't equally, at least at this stage. Because those who saw the list and didn't apply because of the complexity actually could apply and fill the position. And also the developer who somehow knows about all those technologies will be very pissed off from the moment that understands how simple the tasks are.
+The most important factor to keep in mind is that the position shouldn't actually need many of these skills. For example you should require all this for a position that in fact involves only editing some pages on your current Wordpress website. This way you have insulted both people who you will hire and the ones that you don't equally, at least at this stage. Because those who saw the list and didn't apply because of the complexity actually could apply and fill the position. And also the developer who somehow knows about all those technologies will be very pissed off from the moment that understands how simple the tasks are.It also helps if you're somehow clueless about the technologies you have listed. For example take IO.js and Node.js. They are same technologies are merged back together at the time of writing. You can list them separately, and insist that those are totally different tools. Typos in the technology names help a lot. Instead of flexbox, just cut it to flexbo. It's more fun.
 
-Another important factor is insulting web developers by being totally clueless about the technologies you have listed. For example take IO.js and Node.js. They are same technologies are merged back together at the time of writing. You can list them separately, and insist that those are totally different tools. Typos in the technology names help a lot. Instead of flexbox, just cut it to flexbo. It's more fun.
+Another trick to waste developers' time is by having unwritten criteria. For example, imagine you're a local consulting company in Finland, and almost all your clients are Finnish speakers. But you also like to show that your company is very multi national with offices in every continent. To achieve this, you can write your adverts in English, but simply ignore all all the applicants who have foreign-sounding names.
 
 Besides the way you write your job adverts, you can also piss off developers by advertising positions that actually don't exist or are already filled. There are very good reasons to do this. Firstly just because you can! Secondly because you have probably a section on your website to list job ads, if the list is full everybody thinks you're growing fast! On the other hand, if you have the ad there there's a chance that randomly you get applications from top talents! And lastly because you like insulting web developers, right?
 
 #### Effective Processing of Job Applications
 To effectively insult developers you have many options as said before. Let's take a closer look at some options.
 
-**Do nothing.** Simply ignore the job applications. Let them pile up in your careers@company.com inbox. Maybe the position doesn't exist at all right?.
+**Do nothing.** Simply ignore the job applications. Let them pile up in your careers@company.com inbox.
 
 **Send back a generic email.** Set an automatic reply on the careers address to send back a generic email to applicants after some time, informing that they weren't good enough. Here's a sample:
 
@@ -62,5 +63,6 @@ To effectively insult developers you have many options as said before. Let's tak
      YOUR NAME
      YOUR COMPANY NAME
 
-
+#### Effective Interview
+In job interviews you get your first real chance to humiliate web developers and see the reaction on real time, face to face! But don't get excited yet. You can still do something before that.
 
