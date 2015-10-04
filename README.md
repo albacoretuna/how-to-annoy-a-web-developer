@@ -11,7 +11,8 @@ My experience as a web developer and reading what others write here and there ev
 ## Chapter Five  - If You Are a Designer
 ## Chapter Four  - If You Are in DevOps
 ## Chapter Six   - If You Are a Sexist
-## Chapter Six   - If You Are an Event Organizer
+## Chapter Seven - If You Are an Event Organizer
+## Chapter Eight - If You Are in QA
 
 
 ___
@@ -151,9 +152,15 @@ Being a sexist, or even just ignorant about the importance of gender diversity i
 You can annoy female
 
 
-## Chapter Six   - If You Are an Event Organizer
+## Chapter Seven   - If You Are an Event Organizer
 So you organize tech events to help the community go forward. Very nice. What can you do to humiliate web developers?. You can always put sponsors first. If a company is chipping in well, then it doesn't matter what their presentation is about. It can even be as none-informative as a YouTube commercial. It doesn't matter. Let the poor web developers who have traveled long distances to reach your conference listen to some repetitive, corporate promoting talks as well.
 On the other hand you can choose your panel so that some parts of web developer society gets offended. For example you can have an all male panel of speakers, and when asked why, reply with a generic: we'd love to have women speak at our conference, but no one applied!
+
+
+## Chapter Eight - If You Are in QA
+If you're the person responsible for quality control, you can of course annoy the poor web developer easily. Just ask her to support any old browser since 1995 onwards. And more importantly, make sure the website looks the same across all those browsers.
+Another trick would be trying to convince the art director that the user experience is not good enough, so they should definitely consider a complete redesign. It better be shortly before going live!
+
 
 
 #### Comments
@@ -164,4 +171,9 @@ How to make a web developer's life harder
 How to humiliate a web developer
 How to treat web developers
 
+___
+References:
+
+* [How Do You Annoy a Web Developer?](https://www.reddit.com/r/webdev/comments/14fi4g/how_do_you_annoy_a_web_developer/)
+A reddit discussion which gave me some ideas after writing my first 20 pages
 
