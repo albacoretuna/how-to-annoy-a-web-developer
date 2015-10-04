@@ -19,7 +19,7 @@ Being an employer gives you the power to insult web developers better than anyon
 ### Insult them before you know them
 As an employer you have the unique chance of insulting web developers before you've even met them! You can insult them by advertising positions that actually never existed in your team, or have already been filled. You can also humiliate them by never answering their job applications, or writing back months later with a generic email: "Dear applicant, unfortunately...". Sky is the limit for you! Let's go to details about insulting methods you can use on each stage.
 
-#### Effective Job Advert
+#### Writing Insulting Job Advert
 To make a job advert offensive to web developers the first step is listing the name of all the technologies that you've heard or seen the previous developer use as the requirement for the position! Here's a sample requirement list for a web developer position to help you get started:
 
 Requirements
@@ -44,7 +44,7 @@ Another trick to waste developers' time is by having unwritten criteria. For exa
 
 Besides the way you write your job adverts, you can also piss off developers by advertising positions that actually don't exist or are already filled. There are very good reasons to do this. Firstly just because you can! Secondly because you have probably a section on your website to list job ads, if the list is full everybody thinks you're growing fast! On the other hand, if you have the ad there there's a chance that randomly you get applications from top talents! And lastly because you like insulting web developers, right?
 
-#### Effective Processing of Job Applications
+#### Insulting Processing of Job Applications
 To effectively insult developers you have many options as said before. Let's take a closer look at some options.
 
 **Do nothing.** Simply ignore the job applications. Let them pile up in your careers@company.com inbox.
@@ -70,7 +70,7 @@ Now you can think of what to ask in the interview. Forget about the real positio
 Also look for signs. For instance if you see the applicant is overqualified don't be too nice, just put it like this:
 "If you're really as good as written in your C.V. why did you apply for this position? Everyone is going to treat you like shit".
 
-### Effective First Few Weeks
+### Insulting First Few Weeks
 You have done a great job in humiliating at least one web developer all the way up to this point, and now you have your new team member!
 The best way to start the first week at work is to talk about the project and specially the deadline! A situation like this would nail it:
     We currently have a wordpress website, which recently has made lots of troubles, so we need you to replace it with a combination of static pages and SaaS solutions for our dynamic needs. Here's the layout for new pages. The text will be handed to you later, so for now just use lorem ipsum.
@@ -83,7 +83,7 @@ Right after this conversation start distracting the developer by
 
 And while reminding the already passed 2 week deadline, don't provide the text until... I'd say 14 weeks. Meanwhile, don't forget to show up at developer's desk very often to ask how is it going?.
 
-### Effective Activites / Distractions
+### Insulting Activates / Distractions
 You should know something about developers mentality to do this kind of humiliations on your developers effectively. Generally, and according to stereotype web developers care about the following the most:
 
 * Technology
@@ -96,6 +96,8 @@ You should know something about developers mentality to do this kind of humiliat
 
 Your best bet is to never organize events involving such activities. Also it helps to know that web developers are generally considered night persons. Many of them feel very bad early in the morning. So you can mix this two and make your developers come earlier in the morning to do your favorite activities, instead of those listed!
 
+When it comes to distractions no one can do it better than you. It might not be directly insulting but it can lead to nice insults and humiliations. The idea is distracting the developers all through the week, so that they can't deliver on time and then you can insult them on the next Monday meeting for not delivering!
+Keep the office noisy all the time. Don't care about any process and procedure. If something comes to your mind, go to the first developer you see around and tell her what you new web page / web app you need. Don't forget to tell them you need it ASAP. It doesn't matter that they are trying to concentrate on their current tasks, you are the employer, you set priorities!
 
 ### Effective Last Weeks
 On Week 14 hand the developer the Final text, assets, and make up your mind about how the menus should work. On week 15, if the website is not live, just fire the developer and ask another developer do the final touches. While firing the web developer if you have to, just tell her she has been late on delivering the website.
@@ -129,6 +131,10 @@ You have been designing amazing stuff from business cards to billboards for year
 ### Don't Learn Anything About CSS / HTML / the WEB!
 Leave those things to the web developer. That's his problem. You don't have to worry about those things.
 
+### Don't Care About The Developer's Craft, or User Experience
+At the end of the day, it's your design that should shine. Who cares about meaningless code that developers put together to make the design come to life as a website?. Don't compress your image and video assets, and don't let the developer do that for you! Website speed is not your problem, it's users'.
+
+
 ## Chapter Four  - If You Are in DevOps
 Naturally you help web developers reach their hard earned product to end users. You're the window between developers and users. Just like any other persona we discussed, you can be super nice to developers. But in case you're interested in making their life harder, we have some tips for you as well.
 
@@ -153,4 +159,7 @@ Being the employer you have all the rights to distract anyone, at any time. Use 
 
 Title options:
 How to make a web developer's life harder
+How to humiliate a web developer
+How to treat web developers
+
 
