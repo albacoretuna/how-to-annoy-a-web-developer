@@ -102,9 +102,6 @@ Your best bet is to never organize events involving such activities. Also it hel
 When it comes to distractions no one can do it better than you. It might not be directly annoying but it can lead to nice annoys and humiliations. The idea is distracting the developers all through the week, so that they can't deliver on time and then you can annoy them on the next Monday meeting for not delivering!
 Keep the office noisy all the time. Don't care about any process and procedure. If something comes to your mind, go to the first developer you see around and tell her what you new web page / web app you need. Don't forget to tell them you need it ASAP. It doesn't matter that they are trying to concentrate on their current tasks, you are the employer, you set priorities!
 
-### Effective Last Weeks
-On Week 14 hand the developer the Final text, assets, and make up your mind about how the menus should work. On week 15, if the website is not live, just fire the developer and ask another developer do the final touches. While firing the web developer if you have to, just tell her she has been late on delivering the website.
-On week 16 you have your website live, and you have successfully annoyed the recently hired developer who has worked hard on the project and won't see it launch, and also your other developer will be pissed because of coming out of another project to do CSS adjustments for a week.
 
 ## Chapter Two   - If You Are a Browser Maker
 If you are making browsers, it's safe to say that you're responsible not for many humiliations that web developers suffer from, but also for making many of them even change their career! You don't need any tips. You know exactly what to do. But just to make this book longer, let's list the methods you use for humiliating software developers.
