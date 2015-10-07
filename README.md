@@ -2,7 +2,7 @@
 A complete guide
 
 ## Introduction
-Web development is fun. Pushing buttons to make websites, to solve problems is a career that currently about ten million people around the world have chosen. The fun can be ruined in many different ways. Software bugs, browser incompatibilities and the like aside colleagues and managers with special personalities can become a huge part of the annoyance.
+Web development is fun. Pushing buttons to make websites, to solve problems is a career that currently about ten million people around the world have chosen. The fun can be ruined in many different ways. Software bugs, browser incompatibilities and the like on one hand, and on the other hand colleagues and managers with special personalities can become a huge part of the annoyance.
 My experience as a web developer and reading what others write here and there every now and then shows that there are people out there who try to become very good at annoying web developers. Let's give them a guide to make their life easier!
 
 
@@ -13,6 +13,7 @@ My experience as a web developer and reading what others write here and there ev
 ## Chapter Six   - If You Are a Sexist
 ## Chapter Seven - If You Are an Event Organizer
 ## Chapter Eight - If You Are in QA
+## Chapter Nine  - If You Are a Web Developer
 
 
 ___
@@ -158,6 +159,9 @@ On the other hand you can choose your panel so that some parts of web developer 
 If you're the person responsible for quality control, you can of course annoy the poor web developer easily. Just ask her to support any old browser since 1995 onwards. And more importantly, make sure the website looks the same across all those browsers.
 Another trick would be trying to convince the art director that the user experience is not good enough, so they should definitely consider a complete redesign. It better be shortly before going live!
 
+
+## Chapter Nine  - If You Are a Web Developer
+If you're a web developer you have two main options to annoy web developers. Firstly, you can annoy yourself, or at least your future self. Or you can annoy your fellow web developers!
 
 
 #### Comments
