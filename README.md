@@ -157,10 +157,12 @@ You can annoy female
 
 ## Section 6   - If You Are an Event Organizer
 So you organize tech events to help the community go forward. Very nice. You have probably a good will. And all that makes it a little hard for you to be able to annoy web developers. But still, if you try hard, there are ways to achieve that.
+
 For example you can always put sponsor satisfaction before the quality of talks. If a company is chipping in well, then it doesn't matter what their presentation is about. It can even be as none-informative as a YouTube commercial. It doesn't matter. Just let poor web developers who have traveled long distances to reach your conference, and also have paid a few hundred bucks for tickets, listen to some repetitive, corporate promoting talks.
+
 On the other hand you can choose your panel so that some parts of web developer society gets offended. For example you can have an all male panel of speakers, and when asked why, reply with a generic: we'd love to have women speak at our conference, but no one applied!
 
-
+Generally if you don't care about diversity, some web developers might end up annoyed. Just imagine everyone in tech is white, male, straight, and rich. Keep that in mind and you'll succeed to annoy many underrepresented minorities in tech, and people who care about them.
 ## Section 7 - If You Are in QA
 If you're the person responsible for quality control, you can of course annoy the poor web developer easily. Just ask her to support any old browser since 1995 onwards. And more importantly, make sure the website looks the same across all those browsers.
 Another trick would be trying to convince the art director that the user experience is not good enough, so they should definitely consider a complete redesign. It better be shortly before going live!
