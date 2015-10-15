@@ -156,7 +156,8 @@ You can annoy female
 
 
 ## Section 6   - If You Are an Event Organizer
-So you organize tech events to help the community go forward. Very nice. What can you do to humiliate web developers?. You can always put sponsors first. If a company is chipping in well, then it doesn't matter what their presentation is about. It can even be as none-informative as a YouTube commercial. It doesn't matter. Let the poor web developers who have traveled long distances to reach your conference listen to some repetitive, corporate promoting talks as well.
+So you organize tech events to help the community go forward. Very nice. You have probably a good will. And all that makes it a little hard for you to be able to annoy web developers. But still, if you try hard, there are ways to achieve that.
+For example you can always put sponsor satisfaction before the quality of talks. If a company is chipping in well, then it doesn't matter what their presentation is about. It can even be as none-informative as a YouTube commercial. It doesn't matter. Just let poor web developers who have traveled long distances to reach your conference, and also have paid a few hundred bucks for tickets, listen to some repetitive, corporate promoting talks.
 On the other hand you can choose your panel so that some parts of web developer society gets offended. For example you can have an all male panel of speakers, and when asked why, reply with a generic: we'd love to have women speak at our conference, but no one applied!
 
 
@@ -166,7 +167,14 @@ Another trick would be trying to convince the art director that the user experie
 
 
 ## Section 8  - If You Are a Web Developer
-If you're a web developer you have two main options to annoy web developers. Firstly, you can annoy yourself, or at least your future self. Or you can annoy your fellow web developers!
+If you're a web developer you have two main options to annoy web developers. Firstly, you can annoy yourself, or at least your future self. Or you can annoy your fellow web developers! Whether you want to annoy your future self or your fellow web developers, here are some tips for you.
+* Keep the code base dirty and never refactor.
+* Add any framework / library that you see into the project, you don't have to really need them
+* Never write comments explaining how your code works.
+* Even better than the one above, don't update your comments, and sort of lie about your code!
+* Don't be consistent with your variable names, indention,... Your code should look like if it's written by 10 programmers who don't has never met each other.
+* Bash whatever technology people in your team are using, and bring in those that you like.
+* Never write README.MD files for your repos. Let the maintainers Google and guess for the rest of their lives.
 
 
 #### Comments
