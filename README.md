@@ -166,15 +166,8 @@ If you're a web developer you have two main options to annoy web developers. Fir
 
 #### Comments
 Being the employer you have all the rights to distract anyone, at any time. Use that superpower to make your web developers feel bad.
-
-Title options:
-How to make a web developer's life harder
-How to humiliate a web developer
-How to treat web developers
-
 ___
 References:
 
 * [How Do You Annoy a Web Developer?](https://www.reddit.com/r/webdev/comments/14fi4g/how_do_you_annoy_a_web_developer/)
-A reddit discussion which gave me some ideas after writing my first 20 pages
-
+A reddit discussion which gave me some ideas after writing my first 20 pages. I also took the title from that thread.
