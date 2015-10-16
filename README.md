@@ -103,7 +103,7 @@ You should know something about developers mentality to do this kind of humiliat
 * cat pictures
 * Anime
 
-Your best bet is to never organize events involving such activities. Also it helps to know that web developers are generally considered night persons. Many of them feel very bad early in the morning. So you can mix this two and make your developers come earlier in the morning to do your favorite activities, instead of those listed!
+Your best bet is to never organize events involving such activities. Also it helps to know that web developers are generally considered night persons. Many of them feel very bad early in the morning. So you can mix this two and make your developers come earlier in the morning to do your favorite activities, instead of those listed above, or anything that they are interested in! For example arrange something like: Monthly Breakfast with CEO's childhood friend! and make all your web developers attend it.
 
 When it comes to distractions no one can do it better than you. It might not be directly annoying but it can lead to nice annoys and humiliations. The idea is distracting the developers all through the week, so that they can't deliver on time and then you can annoy them on the next Monday meeting for not delivering!
 Keep the office noisy all the time. Don't care about any process and procedure. If something comes to your mind, go to the first developer you see around and tell her what you new web page / web app you need. Don't forget to tell them you need it ASAP. It doesn't matter that they are trying to concentrate on their current tasks, you are the employer, you set priorities!
