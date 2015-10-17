@@ -3,6 +3,7 @@ A complete guide
 
 ## Introduction
 Web development is fun. Pushing buttons to make websites, to solve problems is a career that currently about ten million people around the world have chosen. The fun can be ruined in many different ways. Software bugs, browser incompatibilities and the like on one hand, and on the other hand colleagues and managers with special personalities can become a huge part of the annoyance.
+
 My experience as a web developer and reading what others write here and there every now and then shows that there are people out there who try to become very good at annoying web developers. Let's give them a guide to make their life easier!
 
 ## Contribution
@@ -11,18 +12,17 @@ Please contribute to this project if you know more ways of annoying a web develo
 
 ## Content
 
-- Section 1. If You Are an Employer
-- Section 2. If You Are a Browser Maker
-- Section 3. If You Are a Designer
-- Section 4. If You Are in DevOps
-- Section 5. If You Are a Sexist
-- Section 6. If You Are an Event Organizer
-- Section 7. If You Are in QA
-- Section 8. If You Are a Web Developer
+- [Section 1. If You Are an Employer](#employer)
+- [Section 2. If You Are a Browser Maker](#browser)
+- [Section 3. If You Are a Designer](#designer)
+- [Section 4. If You Are in DevOps](#devops)
+- [Section 5. If You Are an Event Organizer](#organizer)
+- [Section 6. If You Are in QA](#qa)
+- [Section 7. If You Are a Web Developer](#developer)
 
 
 ___
-## Section 1   - If You Are an Employer
+## <a name="employer">Section 1   -   If You Are an Employer</a>
 Being an employer gives you the power to annoy web developers better than anyone else. You probably are already very good at this, but this chapter can help you improve your methods of annoying even the best web developers on the planet very easily.
 
 ### annoy them before you know them
@@ -109,7 +109,7 @@ When it comes to distractions no one can do it better than you. It might not be 
 Keep the office noisy all the time. Don't care about any process and procedure. If something comes to your mind, go to the first developer you see around and tell her what you new web page / web app you need. Don't forget to tell them you need it ASAP. It doesn't matter that they are trying to concentrate on their current tasks, you are the employer, you set priorities!
 
 
-## Section 2   - If You Are a Browser Maker
+## <a name="browser">Section 2   - If You Are a Browser Maker</a>
 If you are making browsers, it's safe to say that you're responsible not for many humiliations that web developers suffer from, but also for making many of them even change their career! You don't need any tips. You know exactly what to do. But just to make this book longer, let's list the methods you use for humiliating software developers.
 
 ### Have Your Own Reading of Specs
@@ -122,17 +122,21 @@ Put your development process in a black box and lock it! Never let anyone on the
 
 
 
-## Section 3  - If You Are a Designer
+## <a name="designer">Section 3  - If You Are a Designer</a>
 Being a designer, you can help web developers make amazing websites with eye catching visual effects. However this won't prevent you to enjoy annoying web developers as part of your job. Here are some tips to help you with that.
 
 ### Never Be Happy With The Results
 You're a designer. A good one. You should be satisfied only with perfect implementation of your design. The vertical space between the image and the text can always become more balanced, you just have to ask the web developer to push some more buttons. Don't give up! Just keep reminding the web developer that this is not acceptable and should get improved.
+
+### Imagine Users Will Spend Hours Looking at Details
+Your developer, checking the website analytics knows that users are spending 15 seconds on average on your website. But don't believe that! Design the website so that it had loads of details, and small things to be discovered by users. Push your developer to break many standards and best practices to build those details that probably only yourself will end up exploring!
 
 ### Keep Your Creativity Stream Going
 Don't stop! Bring in new ideas even on the launch day. Never call it final. Always help the developer feel that all the code that he is writing, might end up in trash in a matter of seconds.
 
 ### Live In the Print Era
 You have been designing amazing stuff from business cards to billboards for years, and everyone loves your design. Keep using standards that you've used and loved. For example if the web developer says "the fold is dead", don't buy it! Insist on fitting everything in the fold, no matter what!
+By the way you have been centering any element in photoshop by a couple of clicks. Why the developer can't just center that button for you?.
 
 ### Don't Learn Anything About CSS / HTML / the WEB!
 Leave those things to the web developer. That's his problem. You don't have to worry about those things.
@@ -140,22 +144,16 @@ Leave those things to the web developer. That's his problem. You don't have to w
 ### Don't Care About The Developer's Craft, or User Experience
 At the end of the day, it's your design that should shine. Who cares about meaningless code that developers put together to make the design come to life as a website?. Don't compress your image and video assets, and don't let the developer do that for you! Website speed is not your problem, it's users'.
 
+### Don't Read This Book
+There's a good book titled: "Don't let me think" by Steve Krug. It can give you a good idea about what works and what doesn't for the web. To annoy your web developers, never ever read this book!
 
-## Section 4  - If You Are in DevOps
+## <a name="devops">Section 4  - If You Are in DevOps</a>
 Naturally you help web developers reach their hard earned product to end users. You're the window between developers and users. Just like any other persona we discussed, you can be super nice to developers. But in case you're interested in making their life harder, we have some tips for you as well.
 
 ### Tell Them To Use Another Tool
 Is your developer happy using a grunt task? Humiliate them by making them use a task runner written in PHP! For desired effect tell them to do change the tool just a couple of hours before deploying to production! Are your developers all excited about Docker recently? Tell them its not time to consider it for now.
 
-
-## Section 5   - If You Are a Sexist
-Being a sexist, or even just ignorant about the importance of gender diversity in tech, you can make the lives of web developer harder as well! You simply keep developer teams less diverse, and less creative by keeping about half the human population out of web development scene. You're the last one that this guid wants to help, but only for the sake of completeness. Use this tips to humiliate web developers, at least female web developers!
-
-### Think Of Quality Whenever Someone Says A Female Developer
-You can annoy female
-
-
-## Section 6   - If You Are an Event Organizer
+## <a name="organizer">Section 5   - If You Are an Event Organizer</a>
 So you organize tech events to help the community go forward. Very nice. You have probably a good will. And all that makes it a little hard for you to be able to annoy web developers. But still, if you try hard, there are ways to achieve that.
 
 For example you can always put sponsor satisfaction before the quality of talks. If a company is chipping in well, then it doesn't matter what their presentation is about. It can even be as none-informative as a YouTube commercial. It doesn't matter. Just let poor web developers who have traveled long distances to reach your conference, and also have paid a few hundred bucks for tickets, listen to some repetitive, corporate promoting talks.
@@ -163,20 +161,22 @@ For example you can always put sponsor satisfaction before the quality of talks.
 On the other hand you can choose your panel so that some parts of web developer society gets offended. For example you can have an all male panel of speakers, and when asked why, reply with a generic: we'd love to have women speak at our conference, but no one applied!
 
 Generally if you don't care about diversity, some web developers might end up annoyed. Just imagine everyone in tech is white, male, straight, and rich. Keep that in mind and you'll succeed to annoy many underrepresented minorities in tech, and people who care about them.
-## Section 7 - If You Are in QA
+## <a name="qa">Section 6 - If You Are in QA</a>
 If you're the person responsible for quality control, you can of course annoy the poor web developer easily. Just ask her to support any old browser since 1995 onwards. And more importantly, make sure the website looks the same across all those browsers.
 Another trick would be trying to convince the art director that the user experience is not good enough, so they should definitely consider a complete redesign. It better be shortly before going live!
 
 
-## Section 8  - If You Are a Web Developer
+## <a name="developer">Section 7  - If You Are a Web Developer</a>
 If you're a web developer you have two main options to annoy web developers. Firstly, you can annoy yourself, or at least your future self. Or you can annoy your fellow web developers! Whether you want to annoy your future self or your fellow web developers, here are some tips for you.
+
 * Keep the code base dirty and never refactor.
-* Add any framework / library that you see into the project, you don't have to really need them
+* Add any framework / library that you see into the project, you don't have to really need them. Import libraries just because they look good.
 * Never write comments explaining how your code works.
 * Even better than the one above, don't update your comments, and sort of lie about your code!
 * Don't be consistent with your variable names, indention,... Your code should look like if it's written by 10 programmers who don't has never met each other.
 * Bash whatever technology people in your team are using, and bring in those that you like.
 * Never write README.MD files for your repos. Let the maintainers Google and guess for the rest of their lives.
+* Write one word commit messages like: "fixed", "solved"
 
 
 #### Comments
