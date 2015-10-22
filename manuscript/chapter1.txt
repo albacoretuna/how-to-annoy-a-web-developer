@@ -7,7 +7,7 @@ Web development is fun. Pushing buttons to make websites, to solve problems is a
 My experience as a web developer and reading what others write here and there every now and then shows that there are people out there who try to become very good at annoying web developers. Let's give them a guide to make their life easier!
 
 ## Contribution
-Please contribute to this project if you know more ways of annoying a web developer. Also spelling/grammer corrections, etc. are very welcome.
+Please contribute to this project if you know more ways of annoying a web developer. Also spelling and grammar corrections, etc. are very welcome.
 
 
 ## Content
