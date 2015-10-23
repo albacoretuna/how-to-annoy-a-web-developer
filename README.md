@@ -25,7 +25,7 @@ ___
 ## <a name="employer">Section 1   -   If You Are an Employer</a>
 Being an employer gives you the power to annoy web developers better than anyone else. You probably are already very good at this, but this chapter can help you improve your methods of annoying even the best web developers on the planet very easily.
 
-### annoy them before you know them
+### Annoy them before you know them
 As an employer you have the unique chance of annoying web developers before you've even met them! You can annoy them by advertising positions that actually never existed in your team, or have already been filled. You can also humiliate them by never answering their job applications, or writing back months later with a generic email: "Dear applicant, unfortunately...". Sky is the limit for you! Let's go to details about annoying methods you can use on each stage.
 
 #### Writing annoying Job Advert
@@ -126,7 +126,7 @@ Put your development process in a black box and lock it! Never let anyone on the
 Being a designer, you can help web developers make amazing websites with eye catching visual effects. However this won't prevent you to enjoy annoying web developers as part of your job. Here are some tips to help you with that.
 
 ### Never Be Happy With The Results
-You're a designer. A good one. You should be satisfied only with perfect implementation of your design. The vertical space between the image and the text can always become more balanced, you just have to ask the web developer to push some more buttons. Don't give up! Just keep reminding the web developer that this is not acceptable and should get improved.
+You're a designer. A good one. You should be satisfied only with perfect implementation of your design. The vertical space between the image and the text can always become more balanced, you just have to ask the web developer to push some more buttons. Don't give up! Just keep reminding the web developer that this is not acceptable and should get improved. This could be a good catch phrase for you: "We can't launch like this".
 
 ### Imagine Users Will Spend Hours Looking at Details
 Your developer, checking the website analytics knows that users are spending 15 seconds on average on your website. But don't believe that! Design the website so that it had loads of details, and small things to be discovered by users. Push your developer to break many standards and best practices to build those details that probably only yourself will end up exploring!
@@ -140,6 +140,9 @@ By the way you have been centering any element in photoshop by a couple of click
 
 ### Don't Learn Anything About CSS / HTML / the WEB!
 Leave those things to the web developer. That's his problem. You don't have to worry about those things.
+
+### Expect mega corporate website quality from a single developer
+If your web developer says "I can't implement this feature now", simply open apple.com and show him how apple has done it. To annoy your web developer act like making a website like apple.com, is as easy as copying their bruchures in Photoshop. It doesn't matter how many team members have worked on apple.com, or Spotify.com, if they can do it, your single developer must be able to do it as well.
 
 ### Don't Care About The Developer's Craft, or User Experience
 At the end of the day, it's your design that should shine. Who cares about meaningless code that developers put together to make the design come to life as a website?. Don't compress your image and video assets, and don't let the developer do that for you! Website speed is not your problem, it's users'.
