@@ -55,7 +55,7 @@ Another trick to waste developers' time is by having unwritten criteria. For exa
 
 Besides the way you write your job adverts, you can also piss off developers by advertising positions that actually don't exist or are already filled. There are very good reasons to do this. Firstly just because you can! Secondly because you have probably a section on your website to list job ads, if the list is full everybody thinks you're growing fast! On the other hand, if you have the ad there there's a chance that randomly you get applications from top talents! And lastly because you like annoying web developers, right?
 
-#### annoying Processing of Job Applications
+#### Annoying Processing of Job Applications
 To effectively annoy developers you have many options as said before. Let's take a closer look at some options.
 
 **Do nothing.** Simply ignore the job applications. Let them pile up in your careers@company.com inbox.
@@ -81,7 +81,7 @@ Now you can think of what to ask in the interview. Forget about the real positio
 Also look for signs. For instance if you see the applicant is overqualified don't be too nice, just put it like this:
 "If you're really as good as written in your C.V. why did you apply for this position? Everyone is going to treat you like shit".
 
-### annoying First Few Weeks
+### Annoying First Few Weeks
 You have done a great job in humiliating at least one web developer all the way up to this point, and now you have your new team member!
 The best way to start the first week at work is to talk about the project and specially the deadline! A situation like this would nail it:
     We currently have a wordpress website, which recently has made lots of troubles, so we need you to replace it with a combination of static pages and SaaS solutions for our dynamic needs. Here's the layout for new pages. The text will be handed to you later, so for now just use lorem ipsum.
@@ -94,7 +94,7 @@ Right after this conversation start distracting the developer by
 
 And while reminding the already passed 2 week deadline, don't provide the text until... I'd say 14 weeks. Meanwhile, don't forget to show up at developer's desk very often to ask how is it going?.
 
-### annoying Activates / Distractions
+### Annoying Activities / Distractions
 You should know something about developers mentality to do this kind of humiliations on your developers effectively. Generally, and according to stereotype web developers care about the following the most:
 
 * Technology
@@ -198,8 +198,7 @@ Clients of freelance web developers or web development studios have great power 
 * Dispute the invoice.
 
 
-#### Comments
-Being the employer you have all the rights to distract anyone, at any time. Use that superpower to make your web developers feel bad.
+
 ___
 References:
 
