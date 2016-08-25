@@ -19,6 +19,7 @@ Please contribute to this project if you know more ways of annoying a web develo
 - [Section 5. If You Are an Event Organizer](#organizer)
 - [Section 6. If You Are in QA](#qa)
 - [Section 7. If You Are a Web Developer](#developer)
+- [Section 8. If You Are a Client](#client)
 
 
 ___
@@ -173,10 +174,24 @@ If you're a web developer you have two main options to annoy web developers. Fir
 * Add any framework / library that you see into the project, you don't have to really need them. Import libraries just because they look good.
 * Never write comments explaining how your code works.
 * Even better than the one above, don't update your comments, and sort of lie about your code!
-* Don't be consistent with your variable names, indention,... Your code should look like if it's written by 10 programmers who don't has never met each other.
+* Don't be consistent with your variable names, indention,... Your code should look like if it's written by 10 programmers who have never met each other.
 * Bash whatever technology people in your team are using, and bring in those that you like.
 * Never write README.MD files for your repos. Let the maintainers Google and guess for the rest of their lives.
 * Write one word commit messages like: "fixed", "solved"
+
+
+## <a name="client">Section 8   -   If You Are a Client</a>
+Clients of freelance web developers or web development studios have great power to annoy the developers. This comes from the unique relationship between clients and contractors. A contractor really, really wants to do a great job for a client. It makes them happy because it's their craft, it makes the client happy, it makes client's customers happy - and, of course, the developers get paid and can put food on their table. Some surefire ways to annoy a developer as a client:
+* Challenge every aspect of a job estimate.
+* Ask for estimates for 15 different minor variations of the same scope of work - the most complex of which is barely within the normal minimum project range for the web developer.
+* When scope of work is agreed upon, try to negotiate down further.
+* During the review process, be sure to send lots of detailed and finicky updates scattered across many different emails.
+* Blame the developer for missing some of the changes.
+* Be sure to freak out that "nothing has been done" when literally every change you requested has been done, except for the one in the file that you didn't actually send.
+* Give the developer free reign on creating a responsive version with no specs whatsoever...
+* ...and then when you want it changed, say you don't think it should cost extra.
+* See the <a name="designer">Designer</a> section above, and be sure to hit all of those points as well.
+* Dispute the invoice.
 
 
 #### Comments
