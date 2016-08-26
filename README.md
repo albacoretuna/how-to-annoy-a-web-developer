@@ -1,5 +1,5 @@
 # How to annoy a Web Developer
-A complete guide
+A complete guide.
 
 ## Introduction
 Web development is fun. Pushing buttons to make websites and solve problems is a career that currently about ten million people around the world have chosen. The fun can be ruined in many different ways. Software bugs, browser incompatibilities and the like on one hand, and on the other hand colleagues and managers with special personalities can become a huge part of the annoyance.
