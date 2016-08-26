@@ -2,9 +2,9 @@
 A complete guide
 
 ## Introduction
-Web development is fun. Pushing buttons to make websites, to solve problems is a career that currently about ten million people around the world have chosen. The fun can be ruined in many different ways. Software bugs, browser incompatibilities and the like on one hand, and on the other hand colleagues and managers with special personalities can become a huge part of the annoyance.
+Web development is fun. Pushing buttons to make websites and solve problems is a career that currently about ten million people around the world have chosen. The fun can be ruined in many different ways. Software bugs, browser incompatibilities and the like on one hand, and on the other hand colleagues and managers with special personalities can become a huge part of the annoyance.
 
-My experience as a web developer and reading what others write here and there every now and then shows that there are people out there who try to become very good at annoying web developers. Let's give them a guide to make their life easier!
+My experience as a web developer and reading what others write here and there every now and then shows that there are people out there who try to become very good at annoying web developers. Let's give them a guide to make their life easier! Eventually we'll also collect methods to help web developers cope with the annoyance as well. 
 
 ## Contribution
 Please contribute to this project if you know more ways of annoying a web developer. Also spelling/grammer corrections, etc. are very welcome.
@@ -25,7 +25,7 @@ Please contribute to this project if you know more ways of annoying a web develo
 
 ___
 ## <a name="employer">Section 1   -   If You Are an Employer</a>
-Being an employer gives you the power to annoy web developers better than anyone else. You probably are already very good at this, but this chapter can help you improve your methods of annoying even the best web developers on the planet very easily.
+Being an employer gives you the power to annoy web developers better than anyone else. You probably are already very good at this, but this chapter can help you improve your methods of annoying even the most flexible web developers on the planet very easily.
 
 ### Annoy them before you know them
 As an employer you have the unique chance of annoying web developers before you've even met them! You can annoy them by advertising positions that actually never existed in your team, or have already been filled. You can also humiliate them by never answering their job applications, or writing back months later with a generic email: "Dear applicant, unfortunately...". Sky is the limit for you! Let's go to details about annoying methods you can use on each stage.
@@ -203,4 +203,4 @@ ___
 References:
 
 * [How Do You Annoy a Web Developer?](https://www.reddit.com/r/webdev/comments/14fi4g/how_do_you_annoy_a_web_developer/)
-A reddit discussion which gave me some ideas after writing my first 20 pages. I also took the title from that thread.
+A reddit discussion which gave me some ideas after writing my first few pages. I also took the title from that thread.
