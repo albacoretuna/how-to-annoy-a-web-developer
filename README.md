@@ -1,11 +1,11 @@
 # How to annoy a Web Developer
-A complete guide.
+A list of tips on How to annoy web developers, hopefully for knowing and avoiding them.
 
 ## Introduction
 Web development is fun. Making websites and solving problems by it is a career that currently about ten million people around the world have chosen. The fun can turn into annoyance in many different ways. For example by bugs, browser problems, lack of documentations and more importantly how we treat each other.
 This project list things that might annoy web developers, so that hopefully those can be avoided to make those 10 million developers happier.
 
-The list of tips on how to annoy web developers is divided based on who you are.
+The list of is divided based on who you are.
 
 ## Content
 - [Section 1. If You Are an Employer](#employer)
@@ -81,8 +81,13 @@ To effectively annoy developers you have many options as said before. Let's take
      Kind regards,
      YOUR NAME
      YOUR COMPANY NAME
+* Send applicants an automatic rejecten email everyweek until they mark it as spam, because you don't have time to setup your recruitment application
 
-### Effective Interview
+### Annoying job exercise
+* Give applicants a job exercise that takes a long time to complete, has nothing to do with the real job they will be doing and give them a close deadline
+* Give applicants something to do that you're going to charge your clients for, yes actually make applicants work for you for free
+
+### Annoying Interview
 In job interviews you get your first chance to humiliate web developers and see the reaction on their face in real time! But don't get excited yet. There are still things you can do before the interview. By planning the interview right, you can get much better results.
 For example, arrange a group interview, instead of meeting one applicant at a time. Group interviews work best at annoying developers specially when you press these nerds with questions like: "what is your biggest weakness?" in front of the whole group. Or invite all the applicants to interview. Before reviewing their technical skills, let human resources spend some time with them, with all of them. Otherwise what is human resources good for? And those applicants don't have much to do anyway. They're looking for a job, it means they've plenty of free time.
 Now you can think of what to ask in the interview. Forget about the real position the applicant is going to fill. Focus on finding the best engineers in the world. You deserve to have the best engineers in the world working for you, so don't go for anything less! Head to Amazon and order one of those "1000 Hard Interview Questions" and pick a bunch of question randomly. In the interview, don't waste time getting to know the applicant, just throw them those questions right away and let them struggle.
