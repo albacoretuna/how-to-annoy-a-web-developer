@@ -22,6 +22,7 @@ Please contribute to this project if you know more ways of annoying a web develo
 - [Section 8. If You Are a Client](#client)
 - [Section 9. If You Are a Project Manager](#project-manager)
 - [Section 10. If You Are in a Relationship with a Developer](#partner)
+- [Section 11. If You Are Just a Web User](#user)
 
 
 
@@ -234,6 +235,9 @@ But anyway we have some tips for you as well!
 * Use the oldest version of web browsers, operating systems, and don't let her upgrade your system.
 * Ask her to do all the things related to internet because "she knows better". Even for small tasks that you can definitely do yourself.
 
+## <a name="user">Section 11  -   If You Are Just a Web User</a>
+If you don't know a web developer closely, you still can annoy them! Isn't that amazing? Yes you can annoy actually many web developers without even knowing them by following this tip:
+* Don't update your browser. Use the oldest Internet Explorer that you can!
 
 ___
 References:
