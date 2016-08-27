@@ -232,6 +232,8 @@ this long? I thought it's easy.
 * Keep telling your developer: "You don't understand the business aspect of this"
 * Ask for a quick prototype, and when it's ready tell your developer it's good enough let's deploy it to production.
 * Don't focus on describing a problem but instead try to offer a solution or even prescribe an implementation.
+* Ask for getting something done in short notice, during last working hour of Friday! Developers who deploy something on Friday, are more likely to think about what they have done during the weekend and stress about what if they broke something and they can't know until Monday?
+
 
 
 
