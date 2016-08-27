@@ -191,6 +191,8 @@ If you're a web developer you have two main options to annoy web developers. Fir
 * If a fellow web developer comes to you asking for help with a problem in framework "X". Tell them the only viable solution is to switch to framework "Y".
 * Never write README.MD files for your repos. Let the maintainers Google and guess for the rest of their lives.
 * Write one word commit messages like: "fixed", "solved"
+* Or write commit messages like this one: "I don't know exactly what I did, I did it yesterday"
+* Push a nearly perfect commit, and after that a couple of commits to fix typos
 
 
 ## <a name="client">Section 8   -   If You Are a Client</a>
@@ -209,6 +211,7 @@ Clients of freelance web developers or web development studios have great power 
 * Report bugs couple of months after noticing it, but expect a fix right away after reporting it.
 * Don't focus on describing a problem but instead try to offer a solution or even prescribe an implementation.
 * Ask for implementing features that make the website slower, and harm user experience. Likes lots of pop ups and carousels.
+* Ask for old browser support, "Site needs to work in IE 6" even if under half a percent of your visitors are using that browser
 
 
 ## <a name="project-manager">Section 9   -   If You Are a Project Manager</a>
@@ -241,7 +244,7 @@ But anyway we have some tips for you as well!
 
 ## <a name="user">Section 11  -   If You Are Just a Web User</a>
 If you don't know a web developer closely, you still can annoy them! Isn't that amazing? Yes you can annoy actually many web developers without even knowing them by following this tip:
-* Don't update your browser. Use the oldest Internet Explorer that you can!
+* Don't update your browser. Use the oldest Internet Explorer  or Safari that you can!
 
 ___
 <a name="ref"> References: </a>
