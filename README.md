@@ -4,7 +4,7 @@ A complete guide.
 ## Introduction
 Web development is fun. Pushing buttons to make websites and solve problems is a career that currently about ten million people around the world have chosen. The fun can be ruined in many different ways. Software bugs, browser incompatibilities and the like on one hand, and on the other hand colleagues and managers with special personalities can become a huge part of the annoyance.
 
-My experience as a web developer and reading what others write here and there every now and then shows that there are people out there who try to become very good at annoying web developers. Let's give them a guide to make their life easier! Eventually we'll also collect methods to help web developers cope with the annoyance as well. 
+My experience as a web developer and reading what others write here and there every now and then shows that there are people out there who try to become very good at annoying web developers. Let's give them a guide to make their life easier! Eventually we'll also collect methods to help web developers cope with the annoyance as well.
 
 ## Contribution
 Please contribute to this project if you know more ways of annoying a web developer. Also spelling/grammer corrections, etc. are very welcome.
@@ -20,6 +20,8 @@ Please contribute to this project if you know more ways of annoying a web develo
 - [Section 6. If You Are in QA](#qa)
 - [Section 7. If You Are a Web Developer](#developer)
 - [Section 8. If You Are a Client](#client)
+- [Section 9. If You Are a Project Manager](#project-manager)
+- [Section 10. If You Are in a Relationship with a Developer](#partner)
 
 
 
@@ -31,13 +33,12 @@ Being an employer gives you the power to annoy web developers better than anyone
 As an employer you have the unique chance of annoying web developers before you've even met them! You can annoy them by advertising positions that actually never existed in your team, or have already been filled. You can also humiliate them by never answering their job applications, or writing back months later with a generic email: "Dear applicant, unfortunately...". Sky is the limit for you! Let's go to details about annoying methods you can use on each stage.
 
 #### Writing annoying Job Advert
-To make a job advert offensive to web developers the first step is listing the name of all the technologies that you've heard or seen the previous developer use as the requirement for the position! Here's a sample requirement list for a web developer position to help you get started:
+To make a job advert offensive to web developers the first step is listing the name of all the technologies that you've heard or seen the previous developers install on their computer as the requirement for the position! Here's a sample requirement list for a web developer position to help you get started:
 
 Requirements
 
 * JavaScript, jQuery
-* HTML
-* CSS, SASS, LESS
+* HTML, CSS, SASS, LESS
 * Backbone.js, React.js, Angular.js, Ember.js
 * SQL, NoSQL, MySql, MongoDB
 * Scala
@@ -46,12 +47,20 @@ Requirements
 * Node.js
 * IO.js
 * Flexbo
-* SVN, Git
+* SVN, Git, Mercury
 
 Why this list might do a good job annoying web developers?
-The most important factor to keep in mind is that the position shouldn't actually need many of these skills. For example you should require all this for a position that in fact involves only editing some pages on your current Wordpress website. This way you have annoyed both people who you will hire and the ones that you don't equally, at least at this stage. Because those who saw the list and didn't apply because of the complexity actually could apply and fill the position. And also the developer who somehow knows about all those technologies will be very pissed off from the moment that understands how simple the tasks are.It also helps if you're somehow clueless about the technologies you have listed. For example take IO.js and Node.js. They are same technologies are merged back together at the time of writing. You can list them separately, and insist that those are totally different tools. Typos in the technology names help a lot. Instead of flexbox, just cut it to flexbo. It's more fun.
+The most important factor to keep in mind is that the position doesn't actually need many of those skills. The actual job can involve just editing some pages on your current Wordpress website. This way you have annoyed equally well both those who you will apply and the ones that don't apply. Because those who saw the list and didn't apply because of the high requirements actually could apply and fill the position. On the other hand the developer who somehow knows all those technologies will be very pissed off from the moment that understands how simple and possibly boring the actual role is.
+It also helps if you're somehow clueless about the technologies you have listed. For example take IO.js and Node.js. They were kind of different technologies for a while but got merged back together long before the time of writing your job advert. You can list them separately, and insist that those are totally different tools. Typos in the technology names help a lot. Instead of flexbox, just cut it to flexbo. It's more fun.
 
-Another trick to waste developers' time is by having unwritten criteria. For example, imagine you're a local consulting company in Finland, and almost all your clients are Finnish speakers. But you also like to show that your company is very multi national with offices in every continent. To achieve this, you can write your adverts in English, but simply ignore all all the applicants who have foreign-sounding names.
+One more tip to make your job advert annoying is using cheesy words in job summaries:
+* ninja
+* rock star
+* astronaut
+* champion
+* wizard
+
+Another trick to waste developers' time is by having unwritten criteria. For example, imagine you're a local consulting company in Finland, and almost all your clients are Finnish speakers. But you also like to show that your company is very international with offices in every continent. To achieve this, you can write your adverts in English, but simply ignore all all the applicants who have foreign-sounding names.
 
 Besides the way you write your job adverts, you can also piss off developers by advertising positions that actually don't exist or are already filled. There are very good reasons to do this. Firstly just because you can! Secondly because you have probably a section on your website to list job ads, if the list is full everybody thinks you're growing fast! On the other hand, if you have the ad there there's a chance that randomly you get applications from top talents! And lastly because you like annoying web developers, right?
 
@@ -196,7 +205,34 @@ Clients of freelance web developers or web development studios have great power 
 * ...and then when you want it changed, say you don't think it should cost extra.
 * See the <a name="designer">Designer</a> section above, and be sure to hit all of those points as well.
 * Dispute the invoice.
+* Call everything a bug. Even the feature or improvement you asked for two days ago!.
 
+
+## <a name="project-manager">Section 9   -   If You Are a Project Manager</a>
+* Before starting a new task, keep repeating that the task is "easy".
+* When developer comes to you with time estimation, look at her with rounded eyes and say: are you sure it takes
+this long? I thought it's easy.
+* Also remind the developer that this has been done before a thousands times, it's just a matter of cut/copy/paste.
+* After the task is done and feature is live, don't update the developer about what happened next, or what difference delivering that feature made.
+* Talk a bit aggressively with your developer, so that they take you seriously.
+* Challenge all the technical decisions. Remind them that you have been a developer yourself, some 20 years ago. Even though 20 years ago, web development didn't exist and you were working on a different platform.
+* Ask your developer to walk you through the codebase line by line, while your more important tasks like managing the project is on hold.
+* While your developer is working on a task, ask her to stop and then ask another developer to complete it. To maximize effect do it multiple times to each task, so that seven developers need to work on the same thing each one trying to understand and continue the work done by others.
+* Talk to your developer like you never believe her. Developer says: feature is ready. Your best response can be: says the developer (grin).
+* Try to replace QA and do the quality control yourself. Instead of spending your time managing the project, and helping your developer, try to test features yourself.
+* When you find a bug, run around the office and shout: "I found a bug in my developer's code, I found a bug, yoo hooo, yes! yes! I found it".
+* jBut when you find out it wasn't actually a bug, just silently nod at your developer and say alright. No one at the office needs to know that you were wrong.
+* Love software methodology jargon like: scrum, kanban,... Every Monday suggest: Shall we switch to monkey swing tree method that only came out yesterday?
+* Keep telling your developer: "You don't understand the business aspect of this"
+* Ask for a quick prototype, and when it's ready tell your developer it's good enough let's deploy it to production.
+
+
+## <a name="partner">Section 10  -   If You Are in a Relationship with a Developer</a>
+Well if you're living with a developer, chances are you will be get annoyed more often than you can annoy your partner :) So I sympathize with you, for all the time you were talking and your partner was just pretending to listen but actually thinking of a bug deep inside.
+But anyway we have some tips for you as well!
+* Ask your developer half, to stay home and do remote work, but actually assume that it's a day off for her! Keep talking and distracting and get disappointed when you don't get enough attention.
+* Use the oldest version of web browsers, operating systems, and don't let her upgrade your system.
+* Ask her to do all the things related to internet because "she knows better". Even for small tasks that you can definitely do yourself.
 
 
 ___
@@ -204,3 +240,4 @@ References:
 
 * [How Do You Annoy a Web Developer?](https://www.reddit.com/r/webdev/comments/14fi4g/how_do_you_annoy_a_web_developer/)
 A reddit discussion which gave me some ideas after writing my first few pages. I also took the title from that thread.
+* [Tips to make a developer's life miserable](https://www.reddit.com/r/webdev/comments/4zqzxm/tips_on_how_to_make_a_web_developers_life/) Thanks to everyone participating in that discussion and sharing their ideas.
