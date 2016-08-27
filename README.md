@@ -89,49 +89,39 @@ To effectively annoy developers you have many options as said before. Let's take
 
 ### Annoying Interview
 In job interviews you get your first chance to humiliate web developers and see the reaction on their face in real time! But don't get excited yet. There are still things you can do before the interview. By planning the interview right, you can get much better results.
-For example, arrange a group interview, instead of meeting one applicant at a time. Group interviews work best at annoying developers specially when you press these nerds with questions like: "what is your biggest weakness?" in front of the whole group. Or invite all the applicants to interview. Before reviewing their technical skills, let human resources spend some time with them, with all of them. Otherwise what is human resources good for? And those applicants don't have much to do anyway. They're looking for a job, it means they've plenty of free time.
-Now you can think of what to ask in the interview. Forget about the real position the applicant is going to fill. Focus on finding the best engineers in the world. You deserve to have the best engineers in the world working for you, so don't go for anything less! Head to Amazon and order one of those "1000 Hard Interview Questions" and pick a bunch of question randomly. In the interview, don't waste time getting to know the applicant, just throw them those questions right away and let them struggle.
-Also look for signs. For instance if you see the applicant is overqualified don't be too nice, just put it like this:
+* arrange a group interview, instead of meeting one applicant at a time. Group interviews work best at annoying developers specially when you press these nerds with questions like: "what is your biggest weakness?" in front of the whole group.
+* Invite all the applicants to interview. Before reviewing their technical skills, let human resources spend some time with them, with all of them. Otherwise what is human resources good for? And those applicants don't have much to do anyway. They're looking for a job, it means they've plenty of free time.
+
+* Focus on finding the best engineers in the world. Forget about the real position the applicant is going to fill. You deserve to have the best engineers in the world working for you, so don't go for anything less!
+* Head to Amazon and order one of those "1000 Hard Interview Questions".
+*  In the interview, don't waste time getting to know the applicant, just throw them some of those questions right away and let them struggle.
+* Don't be nice. For instance if you see the applicant is overqualified just tell to their face:
 "If you're really as good as written in your C.V. why did you apply for this position? Everyone is going to treat you like shit".
 
 ### Annoying First Few Weeks
-You have done a great job in humiliating at least one web developer all the way up to this point, and now you have your new team member!
-The best way to start the first week at work is to talk about the project and specially the deadline! A situation like this would nail it:
-    We currently have a wordpress website, which recently has made lots of troubles, so we need you to replace it with a combination of static pages and SaaS solutions for our dynamic needs. Here's the layout for new pages. The text will be handed to you later, so for now just use lorem ipsum.
+You have done a great job in humiliating at least one web developer all the way up to this point, and now you have your new team member. At this stage you can:
+* pick a project that no one has been able to deliver in the past two years, set a two months deadline on it and ask new developer to work on it.
+* Keep reminding the deadline but don't even give the poor developer a system to start working
 
-Right after this conversation start distracting the developer by
-
-* orientation days
-* Ordering new system
-* Different meetings
-
-And while reminding the already passed 2 week deadline, don't provide the text until... I'd say 14 weeks. Meanwhile, don't forget to show up at developer's desk very often to ask how is it going?.
 
 ### Annoying Activities / Distractions
-You should know something about developers mentality to do this kind of humiliations on your developers effectively. Generally, and according to stereotype web developers care about the following the most:
+You should know something about developers mentality to do this kind of humiliations on your developers effectively. Generally, and according to stereotype web developers care about the following:
+  technology, computers, board games, hackathons, tech talks,  cat pictures  and anime
 
-* Technology
-* Computers
-* Computer games
-* Board games
-* Hackathons and maybe tech talks
-* cat pictures
-* Anime
-
-Your best bet is to never organize events involving such activities. Also it helps to know that web developers are generally considered night persons. Many of them feel very bad early in the morning. So you can mix this two and make your developers come earlier in the morning to do your favorite activities, instead of those listed above, or anything that they are interested in! For example arrange something like: Monthly Breakfast with CEO's childhood friend! and make all your web developers attend it.
-
-When it comes to distractions no one can do it better than you. It might not be directly annoying but it can lead to nice annoys and humiliations. The idea is distracting the developers all through the week, so that they can't deliver on time and then you can annoy them on the next Monday meeting for not delivering!
-Keep the office noisy all the time. Don't care about any process and procedure. If something comes to your mind, go to the first developer you see around and tell her what you new web page / web app you need. Don't forget to tell them you need it ASAP. It doesn't matter that they are trying to concentrate on their current tasks, you are the employer, you set priorities!
-
+Try to:
+* never organize events involving around such things.
+* organize events that are on the opposite side, like about marketing and business.
+* organize those unwanted events early in the morning, as developers are often night persons
+* don't let your developers focus. When a new idea comes to your mind, no matter what they are working on at the moment, gather them in a room and let them start working on your "vision" right away.
 
 ## <a name="browser">Section 2   - If You Are a Browser Maker</a>
 If you are making browsers, it's safe to say that you're responsible not for many humiliations that web developers suffer from, but also for making many of them even change their career! You don't need any tips. You know exactly what to do. But just to make this book longer, let's list the methods you use for humiliating software developers.
 
-### Have Your Own Reading of Specs
+* Have Your Own Reading of Specs
 Have a different reading of the Specs. Be special. Let web developers find this sentences at the bottom of every search result:
 "Not supported in X"
 
-### Keep Your Development Process Secret
+* Keep Your Development Process Secret
 Put your development process in a black box and lock it! Never let anyone on the outside know whether you're planning to support that feature or not. Let developers do guess work, instead of planning based on your feature plans.
 
 
