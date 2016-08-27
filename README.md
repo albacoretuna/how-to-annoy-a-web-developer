@@ -190,6 +190,7 @@ If you're a web developer you have two main options to annoy web developers. Fir
 * Even better than the one above, don't update your comments, and sort of lie about your code!
 * Don't be consistent with your variable names, indention,... Your code should look like if it's written by 10 programmers who don't has never met each other.
 * Bash whatever technology people in your team are using, and bring in those that you like.
+* If a fellow web developer comes to you asking for help with a problem in framework "X". Tell them the only viable solution is to switch to framework "Y".
 * Never write README.MD files for your repos. Let the maintainers Google and guess for the rest of their lives.
 * Write one word commit messages like: "fixed", "solved"
 
@@ -244,4 +245,6 @@ References:
 
 * [How Do You Annoy a Web Developer?](https://www.reddit.com/r/webdev/comments/14fi4g/how_do_you_annoy_a_web_developer/)
 A reddit discussion which gave me some ideas after writing my first few pages. I also took the title from that thread.
+
 * [Tips to make a developer's life miserable](https://www.reddit.com/r/webdev/comments/4zqzxm/tips_on_how_to_make_a_web_developers_life/) Thanks to everyone participating in that discussion and sharing their ideas.
+
