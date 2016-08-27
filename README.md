@@ -2,16 +2,12 @@
 A complete guide.
 
 ## Introduction
-Web development is fun. Pushing buttons to make websites and solve problems is a career that currently about ten million people around the world have chosen. The fun can be ruined in many different ways. Software bugs, browser incompatibilities and the like on one hand, and on the other hand colleagues and managers with special personalities can become a huge part of the annoyance.
+Web development is fun. Making websites and solving problems by it is a career that currently about ten million people around the world have chosen. The fun can turn into annoyance in many different ways. For example by bugs, browser problems, lack of documentations and more importantly how we treat each other.
+This project list things that might annoy web developers, so that hopefully those can be avoided to make those 10 million developers happier.
 
-My experience as a web developer and reading what others write here and there every now and then shows that there are people out there who try to become very good at annoying web developers. Let's give them a guide to make their life easier! Eventually we'll also collect methods to help web developers cope with the annoyance as well.
-
-## Contribution
-Please contribute to this project if you know more ways of annoying a web developer. Also spelling/grammer corrections, etc. are very welcome.
-
+The list of tips on how to annoy web developers is divided based on who you are.
 
 ## Content
-
 - [Section 1. If You Are an Employer](#employer)
 - [Section 2. If You Are a Browser Maker](#browser)
 - [Section 3. If You Are a Designer](#designer)
@@ -23,8 +19,10 @@ Please contribute to this project if you know more ways of annoying a web develo
 - [Section 9. If You Are a Project Manager](#project-manager)
 - [Section 10. If You Are in a Relationship with a Developer](#partner)
 - [Section 11. If You Are Just a Web User](#user)
+- [References ](#ref)
 
-
+## Contributing
+Please contribute to this project if you know more ways of annoying a web developer.  You can contribute either by opening an issue on Github or send a pull request or just comment on Reddit or Hackernews pages mentioned at the end.
 
 ___
 ## <a name="employer">Section 1   -   If You Are an Employer</a>
@@ -208,6 +206,9 @@ Clients of freelance web developers or web development studios have great power 
 * See the <a name="designer">Designer</a> section above, and be sure to hit all of those points as well.
 * Dispute the invoice.
 * Call everything a bug. Even the feature or improvement you asked for two days ago!.
+* Report bugs couple of months after noticing it, but expect a fix right away after reporting it.
+* Don't focus on describing a problem but instead try to offer a solution or even prescribe an implementation.
+* Ask for implementing features that make the website slower, and harm user experience. Likes lots of pop ups and carousels.
 
 
 ## <a name="project-manager">Section 9   -   If You Are a Project Manager</a>
@@ -227,6 +228,8 @@ this long? I thought it's easy.
 * Love software methodology jargon like: scrum, kanban,... Every Monday suggest: Shall we switch to monkey swing tree method that only came out yesterday?
 * Keep telling your developer: "You don't understand the business aspect of this"
 * Ask for a quick prototype, and when it's ready tell your developer it's good enough let's deploy it to production.
+* Don't focus on describing a problem but instead try to offer a solution or even prescribe an implementation.
+
 
 
 ## <a name="partner">Section 10  -   If You Are in a Relationship with a Developer</a>
@@ -241,10 +244,13 @@ If you don't know a web developer closely, you still can annoy them! Isn't that 
 * Don't update your browser. Use the oldest Internet Explorer that you can!
 
 ___
-References:
+<a name="ref"> References: </a>
 
 * [How Do You Annoy a Web Developer?](https://www.reddit.com/r/webdev/comments/14fi4g/how_do_you_annoy_a_web_developer/)
 A reddit discussion which gave me some ideas after writing my first few pages. I also took the title from that thread.
 
-* [Tips to make a developer's life miserable](https://www.reddit.com/r/webdev/comments/4zqzxm/tips_on_how_to_make_a_web_developers_life/) Thanks to everyone participating in that discussion and sharing their ideas.
+Thanks to everyone participating in:
+* [Tips to make a developer's life miserable](https://www.reddit.com/r/webdev/comments/4zqzxm/tips_on_how_to_make_a_web_developers_life/)
+
+* [Ask HN: What annoys web developers?](https://news.ycombinator.com/item?id=12371910#12372538)
 
