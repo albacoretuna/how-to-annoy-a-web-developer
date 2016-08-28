@@ -70,20 +70,21 @@ To effectively annoy developers you have many options as said before. Let's take
 
 **Send back a generic email.** Set an automatic reply on the careers address to send back a generic email to applicants after some time, informing that they weren't good enough. Here's a sample:
 
-     Dear Applicant,
+> Dear Applicant,
 
-     Thank you for your application.
-     Unfortunately we concluded that your skills and expertise aren't the best match for this position. 
-     We regret to inform you we won’t be inviting you for an interview.
-     I hear you thinking, what a standard reply. Unfortunately I can’t deny that. 
-     We can’t do it any other way because of the amount of applications we’ve received for this job. 
-     However I can assure you that we've reviewed your motivation and CV and made a well-thought-out decision.
+>Thank you for your application.Unfortunately we concluded that your skills and expertise aren't the best match for this position. 
+
+>We regret to inform you we won’t be inviting you for an interview.
+>I hear you thinking, what a standard reply. Unfortunately I can’t deny that.
+ We can’t do it any other way because of the amount of applications we’ve received for this job. 
+
+>However I can assure you that we've reviewed your motivation and CV and made a well-thought-out decision.
+>Thanks again and we wish you all the best and good luck in finding your perfect job!
+
+> Best Regards,
+
+> Company
      
-     Thanks again and we wish you all the best and good luck in finding your perfect job!
-
-     Kind regards,
-     YOUR NAME
-     YOUR COMPANY NAME
 * Send applicants an automatic rejecten email everyweek until they mark it as spam, because you don't have time to setup your recruitment application
 
 ### Annoying job exercise
