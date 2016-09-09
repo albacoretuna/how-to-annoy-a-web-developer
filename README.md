@@ -231,7 +231,7 @@ this long? I thought it's easy.
 * Talk to your developer like you never believe her. Developer says: feature is ready. Your best response can be: says the developer (grin).
 * Try to replace QA and do the quality control yourself. Instead of spending your time managing the project, and helping your developer, try to test features yourself.
 * When you find a bug, run around the office and shout: "I found a bug in my developer's code, I found a bug, yoo hooo, yes! yes! I found it".
-* jBut when you find out it wasn't actually a bug, just silently nod at your developer and say alright. No one at the office needs to know that you were wrong.
+* But when you find out it wasn't actually a bug, just silently nod at your developer and say alright. No one at the office needs to know that you were wrong.
 * Love software methodology jargon like: scrum, kanban,... Every Monday suggest: Shall we switch to monkey swing tree method that only came out yesterday?
 * Keep telling your developer: "You don't understand the business aspect of this"
 * Ask for a quick prototype, and when it's ready tell your developer it's good enough let's deploy it to production.
