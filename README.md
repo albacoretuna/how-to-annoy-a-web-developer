@@ -126,11 +126,11 @@ Try to:
 ## <a name="browser">Section 2   - If You Are a Browser Maker</a>
 If you are making browsers, it's safe to say that you're responsible not for many humiliations that web developers suffer from, but also for making many of them even change their career! You don't need any tips. You know exactly what to do. But just to make this book longer, let's list the methods you use for humiliating software developers.
 
-* Have Your Own Reading of Specs
+* Have Your Own Reading of Specs.
 Have a different reading of the Specs. Be special. Let web developers find this sentences at the bottom of every search result:
 "Not supported in X"
 
-* Keep Your Development Process Secret
+* Keep Your Development Process Secret.
 Put your development process in a black box and lock it! Never let anyone on the outside know whether you're planning to support that feature or not. Let developers do guess work, instead of planning based on your feature plans.
 
 
