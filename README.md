@@ -159,7 +159,7 @@ Leave those things to the web developer. That's his problem. You don't have to w
 If your web developer says "I can't implement this feature now", simply open apple.com and show him how apple has done it. To annoy your web developer act like making a website like apple.com, is as easy as copying their bruchures in Photoshop. It doesn't matter how many team members have worked on apple.com, or Spotify.com, if they can do it, your single developer must be able to do it as well.
 
 ### Don't Care About The Developer's Craft, or User Experience
-At the end of the day, it's your design that should shine. Who cares about meaningless code that developers put together to make the design come to life as a website?. Don't compress your image and video assets, and don't let the developer do that for you! Website speed is not your problem, it's users'.
+At the end of the day, it's your design that should shine. Who cares about meaningless code that developers put together to make the design come to life as a website? Don't compress your image and video assets, and don't let the developer do that for you! Website speed is not your problem, it's users'.
 
 ### Don't Read This Book
 There's a good book titled: "Don't let me think" by Steve Krug. It can give you a good idea about what works and what doesn't for the web. To annoy your web developers, never ever read this book!
