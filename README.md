@@ -211,7 +211,7 @@ Clients of freelance web developers or web development studios have great power 
 * ...and then when you want it changed, say you don't think it should cost extra.
 * See the <a name="designer">Designer</a> section above, and be sure to hit all of those points as well.
 * Dispute the invoice.
-* Call everything a bug. Even the feature or improvement you asked for two days ago!.
+* Call everything a bug. Even the feature or improvement you asked for two days ago!
 * Report bugs couple of months after noticing it, but expect a fix right away after reporting it.
 * Don't focus on describing a problem but instead try to offer a solution or even prescribe an implementation.
 * Ask for implementing features that make the website slower, and harm user experience. Likes lots of pop ups and carousels.
