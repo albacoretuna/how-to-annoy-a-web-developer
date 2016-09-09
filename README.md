@@ -1,8 +1,8 @@
 # How to annoy a Web Developer
-A list of tips on How to annoy web developers, hopefully for knowing and avoiding them.
+A list of tips on How to annoy web developers, hopefully for knowing and avoiding them. 
 
 ## Introduction
-Web development is fun. Making websites and solving problems by it is a career that currently about ten million people around the world have chosen. The fun can turn into annoyance in many different ways. For example by bugs, browser problems, lack of documentations and more importantly how we treat each other.
+Web development is fun. Making websites and solving problems is a career that currently about ten million people around the world have chosen. The fun can turn into annoyance in many different ways. For example by bugs, browser problems, lack of documentations and more importantly how we treat each other.
 This project list things that might annoy web developers, so that hopefully those can be avoided to make those 10 million developers happier.
 
 The list of is divided based on who you are.
@@ -19,6 +19,8 @@ The list of is divided based on who you are.
 - [Section 9. If You Are a Project Manager](#project-manager)
 - [Section 10. If You Are in a Relationship with a Developer](#partner)
 - [Section 11. If You Are Just a Web User](#user)
+- [Section 12. If You Are a Recruiter](#recruiter)
+
 - [References ](#ref)
 
 ## Contributing
@@ -50,7 +52,10 @@ Requirements
 
 Why this list might do a good job annoying web developers?
 The most important factor to keep in mind is that the position doesn't actually need many of those skills. The actual job can involve just editing some pages on your current Wordpress website. This way you have annoyed equally well both those who you will apply and the ones that don't apply. Because those who saw the list and didn't apply because of the high requirements actually could apply and fill the position. On the other hand the developer who somehow knows all those technologies will be very pissed off from the moment that understands how simple and possibly boring the actual role is.
-It also helps if you're somehow clueless about the technologies you have listed. For example take IO.js and Node.js. They were kind of different technologies for a while but got merged back together long before the time of writing your job advert. You can list them separately, and insist that those are totally different tools. Typos in the technology names help a lot. Instead of flexbox, just cut it to flexbo. It's more fun.
+
+It also helps if you're somehow clueless about the technologies you have listed. For example take IO.js and Node.js. They were kind of different technologies for a while but got merged back together long before the time of writing your job advert. You can list them separately, and insist that those are totally different tools. 
+
+Typos and wrong usage of small and capital letters in the technology names help a lot. Instead of flexbox, just cut it to flexbo. It's more fun.
 
 One more tip to make your job advert annoying is using cheesy words in job summaries:
 * ninja
@@ -68,7 +73,7 @@ To effectively annoy developers you have many options as said before. Let's take
 
 **Do nothing.** Simply ignore the job applications. Let them pile up in your careers@company.com inbox.
 
-**Send back a generic email.** Set an automatic reply on the careers address to send back a generic email to applicants after some time, informing that they weren't good enough. Here's a sample:
+**Send back a generic email, and again do nothing** Set an automatic reply on the careers address to send back a generic email to applicants after some time, informing that they weren't good enough. Here's a sample:
 
 > Dear Applicant,
 
@@ -233,9 +238,6 @@ this long? I thought it's easy.
 * Don't focus on describing a problem but instead try to offer a solution or even prescribe an implementation.
 * Ask for getting something done in short notice, during last working hour of Friday! Developers who deploy something on Friday, are more likely to think about what they have done during the weekend and stress about what if they broke something and they can't know until Monday?
 
-
-
-
 ## <a name="partner">Section 10  -   If You Are in a Relationship with a Developer</a>
 Well if you're living with a developer, chances are you will be get annoyed more often than you can annoy your partner :) So I sympathize with you, for all the time you were talking and your partner was just pretending to listen but actually thinking of a bug deep inside.
 But anyway we have some tips for you as well!
@@ -246,6 +248,10 @@ But anyway we have some tips for you as well!
 ## <a name="user">Section 11  -   If You Are Just a Web User</a>
 If you don't know a web developer closely, you still can annoy them! Isn't that amazing? Yes you can annoy actually many web developers without even knowing them by following this tip:
 * Don't update your browser. Use the oldest Internet Explorer  or Safari that you can!
+
+## <a name="recruiter">Section 9   -   If You Are a Recruiter</a>
+Tips for recruiters follow: 
+ * Don't learn the difference between Java and JavaScript, or any other two technologies. Therefore send long messsages on linkedin to a Java developer, for a postion that actually needs JavaScript. 
 
 ___
 <a name="ref"> References: </a>
