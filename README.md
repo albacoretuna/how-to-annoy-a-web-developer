@@ -190,7 +190,7 @@ If you're a web developer you have two main options to annoy web developers. Fir
 * Add any framework / library that you see into the project, you don't have to really need them. Import libraries just because they look good.
 * Never write comments explaining how your code works.
 * Even better than the one above, don't update your comments, and sort of lie about your code!
-* Don't be consistent with your variable names, indention,... Your code should look like if it's written by 10 programmers who don't has never met each other.
+* Don't be consistent with your variable names, indention,... Your code should look like if it's written by 10 programmers who have never met each other.
 * Bash whatever technology people in your team are using, and bring in those that you like.
 * If a fellow web developer comes to you asking for help with a problem in framework "X". Tell them the only viable solution is to switch to framework "Y".
 * Never write README.MD files for your repos. Let the maintainers Google and guess for the rest of their lives.
