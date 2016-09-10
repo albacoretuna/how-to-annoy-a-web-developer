@@ -126,11 +126,11 @@ Try to:
 ## <a name="browser">Section 2   - If You Are a Browser Maker</a>
 If you are making browsers, it's safe to say that you're responsible not for many humiliations that web developers suffer from, but also for making many of them even change their career! You don't need any tips. You know exactly what to do. But just to make this book longer, let's list the methods you use for humiliating software developers.
 
-* Have Your Own Reading of Specs
+* Have Your Own Reading of Specs.
 Have a different reading of the Specs. Be special. Let web developers find this sentences at the bottom of every search result:
 "Not supported in X"
 
-* Keep Your Development Process Secret
+* Keep Your Development Process Secret.
 Put your development process in a black box and lock it! Never let anyone on the outside know whether you're planning to support that feature or not. Let developers do guess work, instead of planning based on your feature plans.
 
 
@@ -159,7 +159,7 @@ Leave those things to the web developer. That's his problem. You don't have to w
 If your web developer says "I can't implement this feature now", simply open apple.com and show him how apple has done it. To annoy your web developer act like making a website like apple.com, is as easy as copying their bruchures in Photoshop. It doesn't matter how many team members have worked on apple.com, or Spotify.com, if they can do it, your single developer must be able to do it as well.
 
 ### Don't Care About The Developer's Craft, or User Experience
-At the end of the day, it's your design that should shine. Who cares about meaningless code that developers put together to make the design come to life as a website?. Don't compress your image and video assets, and don't let the developer do that for you! Website speed is not your problem, it's users'.
+At the end of the day, it's your design that should shine. Who cares about meaningless code that developers put together to make the design come to life as a website? Don't compress your image and video assets, and don't let the developer do that for you! Website speed is not your problem, it's users'.
 
 ### Don't Read This Book
 There's a good book titled: "Don't let me think" by Steve Krug. It can give you a good idea about what works and what doesn't for the web. To annoy your web developers, never ever read this book!
@@ -211,7 +211,7 @@ Clients of freelance web developers or web development studios have great power 
 * ...and then when you want it changed, say you don't think it should cost extra.
 * See the <a name="designer">Designer</a> section above, and be sure to hit all of those points as well.
 * Dispute the invoice.
-* Call everything a bug. Even the feature or improvement you asked for two days ago!.
+* Call everything a bug. Even the feature or improvement you asked for two days ago!
 * Report bugs couple of months after noticing it, but expect a fix right away after reporting it.
 * Don't focus on describing a problem but instead try to offer a solution or even prescribe an implementation.
 * Ask for implementing features that make the website slower, and harm user experience. Likes lots of pop ups and carousels.
@@ -231,7 +231,7 @@ this long? I thought it's easy.
 * Talk to your developer like you never believe her. Developer says: feature is ready. Your best response can be: says the developer (grin).
 * Try to replace QA and do the quality control yourself. Instead of spending your time managing the project, and helping your developer, try to test features yourself.
 * When you find a bug, run around the office and shout: "I found a bug in my developer's code, I found a bug, yoo hooo, yes! yes! I found it".
-* jBut when you find out it wasn't actually a bug, just silently nod at your developer and say alright. No one at the office needs to know that you were wrong.
+* But when you find out it wasn't actually a bug, just silently nod at your developer and say alright. No one at the office needs to know that you were wrong.
 * Love software methodology jargon like: scrum, kanban,... Every Monday suggest: Shall we switch to monkey swing tree method that only came out yesterday?
 * Keep telling your developer: "You don't understand the business aspect of this"
 * Ask for a quick prototype, and when it's ready tell your developer it's good enough let's deploy it to production.
