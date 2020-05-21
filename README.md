@@ -1,6 +1,11 @@
 # How to annoy a Web Developer
 A list of tips on How to annoy web developers, hopefully for knowing and avoiding them. 
 
+## Buy kindle or paperback versions
+Buy the paperback. [Click here to go to Amazon](https://www.amazon.co.uk/dp/B088N4Z55K)
+
+Read on Kindle. [Click here to go to Kindle](https://www.amazon.co.uk/dp/B088NX7QQ7) 
+
 ## Introduction
 Web development is fun. Making websites and solving problems is a career that currently about ten million people around the world have chosen. The fun can turn into annoyance in many different ways. For example by bugs, browser problems, lack of documentations and more importantly how we treat each other.
 This project list things that might annoy web developers, so that hopefully those can be avoided to make those 10 million developers happier.
